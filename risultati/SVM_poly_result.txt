@@ -1,0 +1,123 @@
+CV mean: 0.730909090909091 ; CV sd: 0.0697101436824757
+Accuracies 
+0.745454545454545
+0.763636363636364
+0.690909090909091
+0.636363636363636
+0.818181818181818
+Best gammas 
+0.142857142857143
+0.0714285714285714
+0.0357142857142857
+0.285714285714286
+0.00892857142857143
+Best degrees 
+1
+1
+1
+1
+1
+Best costs 
+256
+256
+256
+256
+256
+Accuracy with gamma =  0.142857142857143  degree =  1  cost =  256 :  0.861538461538462
+Accuracy with gamma =  0.0714285714285714  degree =  1  cost =  256 :  0.876923076923077
+Accuracy with gamma =  0.0357142857142857  degree =  1  cost =  256 :  0.892307692307692
+Accuracy with gamma =  0.285714285714286  degree =  1  cost =  256 :  0.861538461538462
+Accuracy with gamma =  0.00892857142857143  degree =  1  cost =  256 :  0.907692307692308
+Final test
+	Avg: 0.88  sd: 0.0200590843237004
+Best Accuracy: 0.907692307692308 with parameters degree = 1 with parameters cost = 256 and gamma = 0.00892857142857143
+Class 1 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 2 
+	FP= 1 TN= 57 FPR= 0.0172413793103448 
+	FN= 0 TP= 2 FNR= 0
+Class 3 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 4 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 5 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 6 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 7 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 8 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 9 
+	FP= 1 TN= 57 FPR= 0.0172413793103448 
+	FN= 1 TP= 2 FNR= 0.333333333333333
+Class 10 
+	FP= 0 TN= 56 FPR= 0 
+	FN= 0 TP= 3 FNR= 0
+Class 11 
+	FP= 0 TN= 56 FPR= 0 
+	FN= 0 TP= 3 FNR= 0
+Class 12 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 13 
+	FP= 1 TN= 57 FPR= 0.0172413793103448 
+	FN= 1 TP= 2 FNR= 0.333333333333333
+Class 14 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 15 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 22 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 23 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 24 
+	FP= 0 TN= 56 FPR= 0 
+	FN= 0 TP= 3 FNR= 0
+Class 25 
+	FP= 0 TN= 58 FPR= 0 
+	FN= 1 TP= 1 FNR= 0.5
+Class 26 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 27 
+	FP= 0 TN= 58 FPR= 0 
+	FN= 1 TP= 1 FNR= 0.5
+Class 28 
+	FP= 0 TN= 58 FPR= 0 
+	FN= 1 TP= 1 FNR= 0.5
+Class 29 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 30 
+	FP= 1 TN= 57 FPR= 0.0172413793103448 
+	FN= 0 TP= 2 FNR= 0
+Class 31 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 32 
+	FP= 0 TN= 58 FPR= 0 
+	FN= 1 TP= 1 FNR= 0.5
+Class 33 
+	FP= 1 TN= 57 FPR= 0.0172413793103448 
+	FN= 0 TP= 2 FNR= 0
+Class 34 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 35 
+	FP= 1 TN= 57 FPR= 0.0172413793103448 
+	FN= 0 TP= 2 FNR= 0
+Class 36 
+	FP= 0 TN= 57 FPR= 0 
+	FN= 0 TP= 2 FNR= 0

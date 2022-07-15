@@ -1,0 +1,117 @@
+CV mean: 0.687272727272727 ; CV sd: 0.0434084959502303
+Accuracies 
+0.636363636363636
+0.690909090909091
+0.745454545454545
+0.709090909090909
+0.654545454545455
+Best mtrys 
+5
+2
+4
+5
+5
+Best ntrees 
+250
+750
+250
+250
+250
+Accuracy with mtry =  5  ntree =  250 :  0.784615384615385
+Accuracy with mtry =  2  ntree =  750 :  0.784615384615385
+Accuracy with mtry =  4  ntree =  250 :  0.8
+Accuracy with mtry =  5  ntree =  250 :  0.8
+Accuracy with mtry =  5  ntree =  250 :  0.784615384615385
+Final test
+	Avg: 0.790769230769231  sd: 0.00842650088469489
+Best Accuracy: 0.8 with parameters ntree = 250 and mtry = 4
+Class 1 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 2 
+	FP= 2 TN= 51 FPR= 0.0377358490566038 
+	FN= 1 TP= 1 FNR= 0.5
+Class 3 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 4 
+	FP= 0 TN= 52 FPR= 0 
+	FN= 2 TP= 0 FNR= 1
+Class 5 
+	FP= 1 TN= 50 FPR= 0.0196078431372549 
+	FN= 0 TP= 2 FNR= 0
+Class 6 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 7 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 8 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 9 
+	FP= 0 TN= 52 FPR= 0 
+	FN= 3 TP= 0 FNR= 1
+Class 10 
+	FP= 0 TN= 49 FPR= 0 
+	FN= 0 TP= 3 FNR= 0
+Class 11 
+	FP= 0 TN= 49 FPR= 0 
+	FN= 0 TP= 3 FNR= 0
+Class 12 
+	FP= 1 TN= 50 FPR= 0.0196078431372549 
+	FN= 0 TP= 2 FNR= 0
+Class 13 
+	FP= 1 TN= 50 FPR= 0.0196078431372549 
+	FN= 1 TP= 2 FNR= 0.333333333333333
+Class 14 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 15 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 22 
+	FP= 0 TN= 52 FPR= 0 
+	FN= 2 TP= 0 FNR= 1
+Class 23 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 24 
+	FP= 0 TN= 49 FPR= 0 
+	FN= 0 TP= 3 FNR= 0
+Class 25 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 26 
+	FP= 1 TN= 50 FPR= 0.0196078431372549 
+	FN= 0 TP= 2 FNR= 0
+Class 27 
+	FP= 0 TN= 51 FPR= 0 
+	FN= 1 TP= 1 FNR= 0.5
+Class 28 
+	FP= 0 TN= 51 FPR= 0 
+	FN= 1 TP= 1 FNR= 0.5
+Class 29 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 30 
+	FP= 4 TN= 50 FPR= 0.0740740740740741 
+	FN= 0 TP= 2 FNR= 0
+Class 31 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 32 
+	FP= 1 TN= 52 FPR= 0.0188679245283019 
+	FN= 2 TP= 0 FNR= 1
+Class 33 
+	FP= 1 TN= 50 FPR= 0.0196078431372549 
+	FN= 0 TP= 2 FNR= 0
+Class 34 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
+Class 35 
+	FP= 1 TN= 50 FPR= 0.0196078431372549 
+	FN= 0 TP= 2 FNR= 0
+Class 36 
+	FP= 0 TN= 50 FPR= 0 
+	FN= 0 TP= 2 FNR= 0
